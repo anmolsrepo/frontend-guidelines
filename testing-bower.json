@@ -3,13 +3,13 @@
 {
   "name": "oneview",
   "private": true,
-  "homepage": "https://bankofamerica.com",
+  "homepage": "https://test.com",
   "version": "0.0.1",
   "_release": "0.0.1",
   "_resolution": {
     "type": "version",
     "tag": "0.0.0",
-    "commit": "4c6e0b3b2eeb443b9370ca12ae2ef90d445036c4"
+    "commit": "4c6e0b3b2eeb443b9370ca12ae2ef90d44503334"
   },
   "_target": "~0.13.0",
   "_originalSource": "bootstrap-ui",
